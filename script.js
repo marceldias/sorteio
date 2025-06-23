@@ -124,7 +124,7 @@ function gereVisualDeInformacoesTecnicas(semente, pontoInformacao) {
 	`
     <p> </p>
     <p> </p>
-    <h3>Informações técnicas do sistema e do software</h3>
+    <b>Informações técnicas do sistema e do software</b>
 	<b>platform:</b> ${navigator.platform}<br/>
 	<b>appName:</b> ${navigator.appName}<br/>
 	<b>appVersion:</b> ${navigator.appVersion}<br/>
