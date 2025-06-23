@@ -122,6 +122,8 @@ function gereVisualDeListaDeEspera(lista, ultimaPosicao) {
 function gereVisualDeInformacoesTecnicas(semente, pontoInformacao) {
 	let conteudoInformacaoesTecnicas =
 	`
+    <p> </p>
+    <p> </p>
     <h3>Informações técnicas do sistema e do software</h3>
 	<b>platform:</b> ${navigator.platform}<br/>
 	<b>appName:</b> ${navigator.appName}<br/>
@@ -129,7 +131,6 @@ function gereVisualDeInformacoesTecnicas(semente, pontoInformacao) {
 	<b>userAgent:</b> ${navigator.userAgent}<br/>
 	<b>Versão deste sistema:</b> 07/2020<br/>
 	<b>Semente utilizada para o sorteio:</b> ${semente}<br/>
-	<b>Biblioteca utilizada para semente de randomicidade</b> | Copyright 2019 David Bau.<br/>
 	<b>Copyright IFSC</b><br/>
 	<b>Autores:</b> Antonielly Garcia Rodrigues, Alex Helder Cordeiro de Oliveira
 	<b>Nova versão:</b> Isaac D'Césares | 07/2020
