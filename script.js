@@ -129,9 +129,8 @@ function gereVisualDeInformacoesTecnicas(semente, pontoInformacao) {
 	<b>userAgent:</b> ${navigator.userAgent}<br/>
 	<b>Versão deste sistema:</b> 07/2020<br/>
 	<b>Semente utilizada para o sorteio:</b> ${semente}<br/>
-	<b>Biblioteca utilizada para semente de randomicidade</b>: https://github.com/davidbau/seedrandom | Copyright 2019 David Bau.<br/>
-	<b>VERSÃO BASEADA NO SOFTWARE DISPONIBILIZADO PELO INSTITUTO FEDERAL DE SANTA CATARINA (IFSC)</b> <br/>
-	<b>Copyright IFSC https://www.ifsc.edu.br/sorteio-publico</b><br/>
+	<b>Biblioteca utilizada para semente de randomicidade</b> | Copyright 2019 David Bau.<br/>
+	<b>Copyright IFSC</b><br/>
 	<b>Autores:</b> Antonielly Garcia Rodrigues, Alex Helder Cordeiro de Oliveira
 	<b>Nova versão:</b> Isaac D'Césares | 07/2020
 	`
